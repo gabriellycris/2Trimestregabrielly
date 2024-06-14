@@ -1,0 +1,14 @@
+:root {
+    --branco-principal: hsl(0, 0%, 100%);
+    --cinza-secundario: #ffffff;
+    --botao-azul: #b6acd3;
+    --cor-de-fundo: #00e1ff;
+}
+body {
+    background-color:#6c2b92;
+    text-align: center;
+}
+p{
+    color: rgb(0, 217, 255);
+    text-align: center;
+}
